@@ -23,6 +23,7 @@ function App() {
 
   return (
     <>
+    <h1>поезд6</h1>
       <div className="wrapper">
         <div className="menu">
           <div className="menu-screen">
