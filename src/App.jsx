@@ -8,7 +8,7 @@ const imgsrc = [
   '18.jpg', '19.png', '20.png', '21.png', '22.jpg'
 ];
 
-const TIME = 1500;
+const TIME = 1600;
 
 function App() {
   const [counter, setCounter] = useState(0);
