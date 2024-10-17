@@ -26,7 +26,7 @@ function App() {
       <div className="wrapper">
         <div className="menu">
           <div className="menu-screen">
-            <img src={`/images/${imgsrc[counter]}`} alt="Slideshow" className='image' />
+            <img src={`../public/images/${imgsrc[counter]}`} alt="Slideshow" className='image' />
           </div>
         </div>
         <div className="side-menu">
